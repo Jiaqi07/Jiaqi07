@@ -23,16 +23,17 @@
 
 - 📫 How to reach me **Via Discord AC#1883 (696477342113071145)**
 
-- ⚡ Fun fact **I don't like long walks on the beach**
+- ⚡ Fun fact: **I don't like long walks on the beach**
 
 <h3 align="left">Contact me:</h3>
 <p align="left">
 <a href="https://www.instagram.com/alanchen51" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="alanchen51" height="30" width="40" /></a>
 <a href="https://www.youtube.com/channel/UCsmiBrG791EH5YBv6Ft7GMQ" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/youtube.svg" alt="Alan Chen" height="30" width="40" /></a>
+<a href= "https://mail.google.com/alanjiach@gmail.com " target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/gmail.svg" alt="Alan Chen" height="30" width="40" /></a>
 </p>
 
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=Jiaqi07&show_icons=true&theme=dark&locale=en&layout=compact" alt="Jiaqi07" /></p>
 
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=Jiaqi07&show_icons=true&theme=dark&title_color=ffffff&text_color=009919&locale=en" alt="motzumoto" /></p>
+<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=Jiaqi07&show_icons=true&theme=dark&title_color=ffffff&text_color=009919&locale=en" alt="Jiaqi07" /></p>
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=Jiaqi07&theme=dark" alt="Jiaqi07" /></p>
