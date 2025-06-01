@@ -1,5 +1,5 @@
 <h1 align="center">Hello, I'm Jiaqi07!</h1>
-<h3 align="center">An incompetent highschooler who is trying to program.</h3>
+<h3 align="center">An incompetent researcher and entrepreneur who is trying to program.</h3>
 
 <div  align="center">
     <h2>Discord Status<br><br>
@@ -15,15 +15,15 @@
 	<img src="https://github-profile-trophy.vercel.app/?username=Jiaqi07&theme=discord&no-frame=true">
 </div>
 
-- 🌱 I’m currently learning **Python, Java, CPP, C$, HTML, JS, Kotlin, MatLab**
+- 🌱 I’m currently learning **Python, Java, CPP, React, Next, ROS, and a bunch of stuff that I'll probably forget.**
 
-- 🤝 I’m looking for any ideas for personal projects.
+- 🤝 I’m always willing to collaborate on startup or research ideas!
 
-- 💬 Ask me about **My work**
+- 💬 Ask me about **My work** or for some advice if you want
 
 - 📫 How to reach me **Via Discord AC#1883 (696477342113071145)**
 
-- ⚡ Fun fact: **I don't like long walks on the beach**
+- ⚡ Fun fact: **I don't like long walks on the beach** and don't expect too much of me lol.
 
 <h3 align="left">Contact me:</h3>
 <p align="left">
