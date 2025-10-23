@@ -19,7 +19,7 @@
 
 - 💬 Ask me about **My work** or for some advice if you want
 
-- 📫 How to reach me **Via Discord AC#1883 (696477342113071145)**
+- 📫 How to reach me **Via Discord lighteve**
 
 - ⚡ Fun fact: **I'm the lion** and don't expect too much of me lol.
 
