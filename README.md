@@ -8,14 +8,12 @@
     </a><br>
 </div>
 
-![Profile views](https://gpvc.arturio.dev/Jiaqi07)
-
 <div align=left>
 	<h1>Github Trophies 🏆</h1>
 	<img src="https://github-profile-trophy.vercel.app/?username=Jiaqi07&theme=discord&no-frame=true">
 </div>
 
-- 🌱 I’m currently learning **Python, Java, CPP, React, Next, ROS, and a bunch of stuff that I'll probably forget.**
+- 🌱 I’m currently learning **Python, Java, React, Next, ROS, and a bunch of stuff that I'll probably forget.**
 
 - 🤝 I’m always willing to collaborate on startup or research ideas!
 
@@ -23,7 +21,7 @@
 
 - 📫 How to reach me **Via Discord AC#1883 (696477342113071145)**
 
-- ⚡ Fun fact: **I don't like long walks on the beach** and don't expect too much of me lol.
+- ⚡ Fun fact: **I'm the lion** and don't expect too much of me lol.
 
 <h3 align="left">Contact me:</h3>
 <p align="left">
