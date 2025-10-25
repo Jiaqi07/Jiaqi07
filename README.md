@@ -10,7 +10,6 @@
 
 <div align=left>
 	<h1>Github Trophies 🏆</h1>
-	<img src="https://github-profile-trophy.vercel.app/?username=Jiaqi07&theme=discord&no-frame=true">
 </div>
 
 - 🌱 I’m currently learning **Python, Java, React, Next, ROS, and a bunch of stuff that I'll probably forget.**
